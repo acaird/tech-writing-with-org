@@ -1,0 +1,37 @@
+#+TITLE: Technical Writing using Emacs Org-Mode and Git
+#+AUTHOR: Andrew Caird
+#+EMAIL: acaird@gmail.com
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:{} arch:headline author:t
+#+OPTIONS: c:nil creator:comment date:nil e:t
+#+OPTIONS: email:nil f:t inline:t num:t p:nil pri:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t toc:2 todo:t |:t
+#+LATEX_CLASS: book
+
+* Why?
+  - text files
+  - multiple output formats
+  - platform independant
+  - suitable for source code management like Git, SVN, etc.
+  - integrated task tracking
+
+* Getting Started
+  - Emacs
+  - Org-Mode
+  - Git
+
+* Source Code in Org-Mode
+** Writing and Editing
+** Re-using and Documenting
+** Input and Output
+   - text
+   - tables
+   - graphics
+** Workflow
+   - output as input
+
+* Output Formats
+  - PDF and LaTeX
+  - HTML
+  - plain text
+
+* Task Tracking
