@@ -7,6 +7,12 @@
 #+OPTIONS: tasks:t tex:t timestamp:t toc:2 todo:t |:t
 #+LATEX_CLASS: book
 
+* License
+  All content is licensed under the [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons Attribution Non
+  Commercial Share Alike 3.0 license]].
+
+  [[./cc-A-NC-SA-3.png]]
+
 * Why?
   - text files
   - multiple output formats
