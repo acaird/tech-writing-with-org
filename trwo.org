@@ -19,6 +19,8 @@
   - platform independant
   - suitable for source code management like Git, SVN, etc.
   - integrated task tracking
+  - reproducable research
+  - data management
 
 * Getting Started
   - Emacs
