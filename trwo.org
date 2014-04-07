@@ -25,7 +25,13 @@
 * Getting Started
   - Emacs
   - Org-Mode
-  - Git
+  - LaTeX
+  - other useful tools
+    - Git
+    - ditaa
+    - graphviz
+    - SQL
+    - R
 
 * Source Code in Org-Mode
 ** Writing and Editing
