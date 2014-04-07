@@ -45,7 +45,13 @@
 
 * Output Formats
   - PDF and LaTeX
+    - Tufte class
+    - Memoir class
+    - other classes
   - HTML
+    - CSS
   - plain text
+  - markdown
+  - using Pandoc
 
 * Task Tracking
